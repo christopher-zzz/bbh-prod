@@ -11,7 +11,7 @@
 8. Run stage 4, which produces the LHE files containing event information.
 
 ## Instructions to produce unofficial gridpacks
-1. `gridpacks`
+1. `cd gridpacks`
 2. Follow instructions to produce LHE files up to stage3, no actual LHE files need to be produced
 3. Execute `setup.sh <run> <xgridit>`, where `<run>` is the selected name for the run and `<xgridit>` is the iteration with the smoothest grids in stage1.
 4. The produced gridpack is located in `./<run>/bbh_powheg_<run>.tar.gz`
