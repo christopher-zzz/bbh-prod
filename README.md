@@ -1,4 +1,6 @@
 # bbh-prod
+Instructions on twiki: https://twiki.cern.ch/twiki/bin/viewauth/CMS/H2TauBBHSimulation
+bbH Powheg paper: https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.014030
 
 ## Instructions to produce LHE files
 1. `cd lhe`
